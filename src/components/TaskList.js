@@ -14,5 +14,3 @@ const TaskList = ({ tasks, deleteTask, changeTaskStatus }) => {
 }
 
 export default TaskList;
-
-//<li key={task.id}>{task.title}, {task.description}</li>
