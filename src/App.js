@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import React, { useState, useEffect } from "react";
 import { API_KEY, API_URL } from "./api/constants";
 import TaskList from "./components/TaskList";
